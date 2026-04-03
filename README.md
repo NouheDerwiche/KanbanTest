@@ -1,5 +1,9 @@
 # Kanban Board project
 
+![Kanban Board Screenshot](./public/Capture.png)
+
+*Preview of the Kanban Board UI*
+
 Hey there! This is a modern Kanban board I've built using React, TypeScript, and Vite. I really wanted something that feels smooth and professional, so I've spent a lot of time on the design and how it feels to use.
 
 ## What's cool about it?
